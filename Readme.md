@@ -29,4 +29,8 @@
 <div>
   <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/metas.png" style="width: 1600px;">
 </div>
+<div><blockquote>VALORES</blockquote></div>
+<div>
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/valores.png" style="width: 1600px;">
+</div>
 
