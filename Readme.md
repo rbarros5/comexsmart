@@ -11,14 +11,22 @@
 </div>
 <div>
   <div style="text-align: center;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/250.png" style="widht:170px; height: 170px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/250.png" style="widht:170px; height: 170px;" alt="Roberto">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/allan.png" style="widht:170px; height: 170px;">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/adrien.png" style="widht:170px; height: 170px;">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/julia.png" style="widht:170px; height: 170px;">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/diego.png" style="widht:170px; height: 170px;">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/maria-clara.png" style="widht:170px; height: 170px;">
   </div>
+  <div><blockquote>----Roberto-------------------Allan-------------------Adrien-------------------Julia-------------------Diego-----------------Maria Clara</blockquote></div>
 </div>
+
+<div><blockquote>OBJETIVO</blockquote></div>
 <div>
   <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/objetivo.png" style="width: 1600px;">
 </div>
+<div><blockquote>META</blockquote></div>
+<div>
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/metas.png" style="width: 1600px;">
+</div>
+
