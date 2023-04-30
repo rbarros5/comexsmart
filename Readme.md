@@ -11,12 +11,12 @@
 </div>
 <div>
   <div style="text-align: center;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/250.png" style="widht:150px; height: 150px;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/allan.png" style="widht:150px; height: 150px;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/adrien.png" style="widht:150px; height: 150px;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/julia.png" style="widht:150px; height: 150px;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/diego.png" style="widht:150px; height: 150px;">
-    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/maria-clara.png" style="widht:150px; height: 150px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/250.png" style="widht:130px; height: 130px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/allan.png" style="widht:130px; height: 130px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/adrien.png" style="widht:130px; height: 130px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/julia.png" style="widht:130px; height: 130px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/diego.png" style="widht:130px; height: 130px;">
+    <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/maria-clara.png" style="widht:130px; height: 130px;">
   </div>
 </div>
 <div style="text-align: right;">
