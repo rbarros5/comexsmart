@@ -25,20 +25,28 @@
     <blockquote><strong>-     OBJETIVO-</strong></blockquote>
     <table>
       <th colspan="2">
-        <h5 style="text-align: left;">Com o objetivo de promover as melhores soluções logísticas 
-          <p>para o mercado local e internacional</p></h5>
-          <p><h5>A Comexsmart se destaca por sua capacidade de percepção 
-          <p>de mudança de mercado, se antecipando as novas tendências e</p> 
-          <p>totalmente preparada a oferecer a melhor consultoria ao setor logístico.</p></h5></p>
-          <p><h5>Equipada com o que á de mais inovador em tecnologia da informação, 
-          <p>com sistema de apresentação de indicadores que facilitam</p> 
-          <p>a tomada de decisões na estolha</p>
-          <p>de modais adequados ao transporte de materiais.</h5></p>
-          <p><h5>Acompanhamento e soluções para um melhor sincronismo, </p>
-          <p>qualidade e ganho de tempo na cadeia produtiva de produtos</p> 
-          <p>nacionais e importados, desde o recebimento de matérias </p>
-          <p>primas de fornecedores até a entrega ao cliente final</p> 
-          <p>o produto acabado.</p></h5></p>
+        <blockquote>
+          Com o objetivo de promover as melhores soluções logísticas 
+          <p>para o mercado local e internacional</p>
+        <p>A Comexsmart se destaca por sua 
+             <p>capacidade de percepção</p> 
+             <p>de mudança de mercado, se antecipando</p> 
+             <p>as novas tendências e</p>
+             <p>totalmente preparada a oferecer a melhor 
+             <p>consultoria ao setor logístico.</p>
+        </p>
+          <p>Equipada com o que á de mais inovador em tecnologia da informação, 
+               <p>com sistema de apresentação de indicadores que facilitam</p> 
+               <p>a tomada de decisões na estolha</p>
+               <p>de modais adequados ao transporte de materiais.   
+          </p>
+             <p>Acompanhamento e soluções para um melhor sincronismo, </p>
+                  <p>qualidade e ganho de tempo na cadeia produtiva de produtos</p> 
+                  <p>nacionais e importados, desde o recebimento de matérias </p>
+                  <p>primas de fornecedores até a entrega ao cliente final</p> 
+                  <p>o produto acabado.</p>
+             </p>
+             </blockquote>
       </th>
       <th colspan="2">
         <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/comex-site-1.jpg">
