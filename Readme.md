@@ -15,7 +15,7 @@
 </div>
 <div><blockquote>OBJETIVO</blockquote></div>
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/objetivo.png" style="width: 1600px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/objetivo2.png" style="width: 1600px;">
 </div>
 <div><blockquote>META</blockquote></div>
 <div>
