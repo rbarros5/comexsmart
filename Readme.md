@@ -19,7 +19,7 @@
 </div>
 <div><blockquote>META</blockquote></div>
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/metas.png" style="width: 1600px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/metas.png" style="width: 1600px;">
   <h6><a href="https://br.freepik.com/vetores-gratis/ilustracao-do-conceito-de-grupo_23186779.htm#query=valores&position=4&from_view=keyword&track=sph">Imagem de storyset</a> no Freepik<h6>
 </div>
 <div><blockquote>VALORES</blockquote></div>
