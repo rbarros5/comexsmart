@@ -1,5 +1,5 @@
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/cabcalho-1.jpg" width="800px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/logomarca.png" width="800px;">
   <blockquote>CONECTANDO SUA EMPRESA AO MUNDO</blockquote>
 </div>
 <div>
