@@ -12,12 +12,10 @@
   <div style="text-align: center;">
     <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/equipe.png">
   </div>
-  
 </div>
-
 <div><blockquote>OBJETIVO</blockquote></div>
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/objetivo.png" style="width: 1600px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/objetivo-1.png" style="width: 1600px;">
 </div>
 <div><blockquote>META</blockquote></div>
 <div>
