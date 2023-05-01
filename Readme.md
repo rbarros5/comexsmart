@@ -24,11 +24,11 @@
 </div>
 <div><blockquote>VALORES</blockquote></div>
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/valores.png" style="width: 1600px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/05/valores.png" style="width: 1600px;">
   <h6><a href="https://br.freepik.com/vetores-gratis/conceito-abstrato-de-ambicao_12084802.htm#query=meta&position=19&from_view=search&track=sph">Imagem de vectorjuice</a> no Freepik</h6>
 </div>
     <div><blockquote>MAPA REGIONAL RMVALE</blockquote></div>
 <div>
-  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/mapa-3.png" style="width: 800px;">
+  <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/mapa-3.png" style="width: 600px;">
 </div>
 
