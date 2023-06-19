@@ -31,4 +31,4 @@
 <div>
   <img src="http://copiadorananquim.com.br/impressos/wp-content/uploads/2023/04/mapa-3.png" style="width: 600px;">
 </div>
-
+    <a href="https://copiadorananquim.com.br"><img src="http://copiadorananquim.com.br/imagens/300x300px.png"/></a>
